@@ -153,7 +153,7 @@ During my internship, I implemented:
 
 ### 🔹 **LLM Integration**
 
-* Connected **Ollama (Qwen2.5)** for inference
+* Connected **Ollama (Qwen2.5)** for inference           https://www.prismetric.com/qwen-2-5-what-it-is-and-how-to-use-it/
 * Designed prompts to prevent hallucination and ensure accuracy
 
 ### 🔹 **Document-grounded Conversation Logic**
